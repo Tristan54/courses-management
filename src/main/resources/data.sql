@@ -1,0 +1,1 @@
+Insert into TEACHER (id, name, date_birth, email, password) values (1, 'Teacher', '1999-01-01', 'teacher@courses.com', 'password');

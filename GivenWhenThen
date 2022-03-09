@@ -1,0 +1,6 @@
+Given that I'm a teacher
+When I open the courses teacher page
+And I provide the credentials in the login pop-up
+Then the system will log me in
+And I can register my next courses
+
